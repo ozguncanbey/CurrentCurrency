@@ -29,7 +29,7 @@ CurrentCurrency is a simple iOS app that allows you to calculate currency conver
 5. Tap the "Calculate" button to perform the currency conversion.
 6. The converted amount will be displayed in the "Result" label.
 
-## Installation
+## Screenshots
 
 * (https://github.com/ozguncanbey/CurrentCurrency/assets/138692325/ce64b992-3bcb-465f-b7c8-adf6033b4fb9)
 * (https://github.com/ozguncanbey/CurrentCurrency/assets/138692325/534b98fa-0849-485e-949a-f1cfd284d79d)
