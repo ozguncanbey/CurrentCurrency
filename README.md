@@ -10,7 +10,7 @@ CurrentCurrency is a simple iOS app that allows you to calculate currency conver
 
 ## Requirements
 
-- iOS 13.0+
+- iOS 15.6+
 - Xcode 11.0+
 - Swift 5.0+
 
